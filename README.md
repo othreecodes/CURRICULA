@@ -35,8 +35,8 @@ ionic serve
 # CONTRIBUTING
 Submit a [PR](https://github.com/othreecodes/CURRICULA/pull/new/master) for any feature you'll like to add
 
-# LISCENCE
-MIT
+# LICENSE
+[MIT](LICENSE.md)
   
   
   

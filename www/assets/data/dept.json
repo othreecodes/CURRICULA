@@ -1,0 +1,62 @@
+{
+  "departments": [
+    {
+      "name": "Department of Archaeology/Anthropology",
+      "code": "arc",
+      "hod": "Dr Amos Tutuola"
+      
+    },{
+      "name": "Department of Botany",
+      "code": "bot",
+      "hod": "Dr Ben Okri"
+      
+    },{
+      "name": "Department of Chemistry",
+      "code": "chem",
+      "hod": "Dr Chimamanda Ngozi Adichie"
+      
+    },{
+      "name": "Department of Computer Science",
+      "code": "csc",
+      "hod": "Dr Oladejo",
+      "courses": "code. title, unit, status"
+      
+    },{
+      "name": "Department of Geography",
+      "code": "geo",
+      "hod": "Prof Chimamanda Adichie"
+      
+    },{
+      "name": "Department of Geology",
+      "code": "gey",
+      "hod": "Dr Ngozi Adichie"
+      
+    },{
+      "name": "Department of Microbiology",
+      "code": "mcb",
+      "hod": "Dr Chimamanda Adichie"
+      
+    },{
+      "name": "Department of Mathematics",
+      "code": "mth",
+      "hod": "Prof Ngozi Adichie"
+      
+    },{
+      "name": "Department of Physics",
+      "code": "phy",
+      "hod": "Dr Chimamanda Adichie"
+      
+    },{
+      "name": "Department of Statistics",
+      "code": "stat",
+      "hod": "Dr Chimamanda Ngozi"
+      
+    },{
+      "name": "Department of Zoology",
+      "code": "zoo",
+      "hod": "Dr Chimamanda Ngozi"
+      
+    }
+  ]
+}
+

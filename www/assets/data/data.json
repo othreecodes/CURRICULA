@@ -1,0 +1,51 @@
+{
+  "courses": [
+    {
+      "id": "CSC 301",
+      "dept": "Computer Science",
+      "title": "Computer Center Management",
+      "unit": "2 units",
+      "status": "Required",
+      "lecturer": "Dr. (Mrs.) Makolo",
+      "semester": "2",
+      "content": "week 1 introduction, week 2 scope, week 3 applications, week 4 relevance, week 5 tests, week 1 introduction, week 2 scope, week 3 applications, week 4 relevance, week 5 tests"
+    },{
+      "id": "CSC 302",
+      "dept": "Computer Science",
+      "title": "System Analysis and Design",
+      "unit": "3 units",
+      "status": "Compulsory",
+      "lecturer": "Dr. (Mrs.) Bolanle Oladejo",
+      "semester": "1",
+      "content": "week 1 introduction, week 2 scope, week 3 applications, week 4 relevance, week 5 tests"
+    },{
+      "id": "CSC 311",
+      "dept": "Computer Science",
+      "title": "Digital Computer Logic Design",
+      "unit": "3 units",
+      "status": "Compulsory",
+      "lecturer": "Mrs. Ojo",
+      "semester": "1",
+      "content": "week 1 introduction, week 2 scope, week 3 applications, week 4 relevance, week 5 tests"     
+    },{
+      "id": "CSC 312",
+      "dept": "Computer Science",
+      "title": "Computer Hardware",
+      "unit": "2 units",
+      "status": "Required",
+      "lecturer": "Mr. Adeniji",
+      "semester": "1",
+      "content": "week 1 introduction, week 2 scope, week 3 applications, week 4 relevance, week 5 tests"
+    },{
+      "id": "CSC 321",
+      "dept": "Computer Science",
+      "title": "Computer Operating System I",
+      "unit": "2 units",
+      "status": "Compulsory",
+      "lecturer": "Mrs. Woods",
+      "semester": "1",
+      "content": "week 1 introduction, week 2 scope, week 3 applications, week 4 relevance, week 5 tests"
+    }
+
+]
+}

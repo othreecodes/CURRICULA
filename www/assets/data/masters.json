@@ -1,0 +1,262 @@
+[
+  {
+    "COURSECODE": "CSC813",
+    "COURSETITLE": "SELECTED TOPICS IN PROGRAMMING LANGUAGES ",
+    "DESCRIPTION": "Topics of interest in programming language design and implementation.Topics include object-oriented programming,parallel programming,programming language Semantics."
+  },
+  {
+    "COURSECODE": "CSC818",
+    "COURSETITLE": "SPECIAL TOPICS IN KNOWLEDGE REPRESENTATION ",
+    "DESCRIPTION": "Among topics to be considered will be time,necessity(and possibility),conditions,relevance,knowledge(and brief),non-monotonicity and meta-level reasoning(including problems of self-reference).Logical characterizations will be investigated and selected applications in the area of planning will be studied.   "
+  },
+  {
+    "COURSECODE": "CSC823",
+    "COURSETITLE": "APPLICATIONS PROGRAMMING",
+    "DESCRIPTION": "Application of software engineering methodology to real-world applications of computers.This course emphasizes implementation of a working software system in a team environment."
+  },
+  {
+    "COURSECODE": "CSC828",
+    "COURSETITLE": "ADVANCED ARTIFICIAL INTELLIGENCE",
+    "DESCRIPTION": "Explore the key theoretical and practical problems encountered in each of the following sub-areas of artificial intelligence:planning,natural language and understanding,speech understanding,vision,learning and design."
+  },
+  {
+    "COURSECODE": "CSC838",
+    "COURSETITLE": "NEURAL NETWORKS",
+    "DESCRIPTION": "The history and aims of brain modelling.For and against perceptions.Man's approaches to vision.A selection of network paragiagms and their properties: Hopfield,Boltzmann machines,error back propagation,Kohonen,etc.Applications,Architectural issues.Logic approaches.Genetic algorithms as adaptive search."
+  },
+  {
+    "COURSECODE": "CSC873",
+    "COURSETITLE": "SPECIAL TOPICS IN SOFTWARE ENGINEERING",
+    "DESCRIPTION": "This course will be presented through consideration of examples and will be supported by readings,demonstrations and discussion,Seminars on leading Software environments will be an important part of the course.Examples to be covered include:integrated environments such as UNIX,PCTE,ALF,IPSE 2.5,Aspect,ISTAR,arcadia,MARVEL.Programmers Apprentice.Other topics:configuration control,project management tools and high-end CASE tools."
+  },
+  {
+    "COURSECODE": "CSC741",
+    "COURSETITLE": "COMPUTER ARCHITECTURE AND NETWORKS",
+    "DESCRIPTION": "Introduction to design techniques for the synthesis of digital computers.Principles of computer structure and design as applied to major computer functions; direct-execution architecture,intermediate image architecture and micro-instructions as an image architecture.Networks; a comparison of services offered(virtual circuit or data gram)and protocol functions such as addressing,routing,error,and flow control,synchronization and multiplexing for each layer of ISO Reference Model.Case studies include Ethernet,CONIC,token Bus and Decnet."
+  },
+  {
+    "COURSECODE": "CSC742",
+    "COURSETITLE": "OPERATING SYSTEMS TECHNIQUES",
+    "DESCRIPTION": "An introduction to the principles of operating systems.Topics include multiprogramming;multiprocessing,timesharing processes; synchronization ans communication;memory management including partitions;base and limit registers,paging and segmentation; input-output; filling systems; deadlock; security.Examples will be taken from modern operating systems such as UNIX."
+  },
+  {
+    "COURSECODE": "CSC743",
+    "COURSETITLE": "ADVANCE COMPILING TECHNIQUES",
+    "DESCRIPTION": "An introduction to compilers; attribute grammar,syntax-directed translation,lex,yarc LR(1) parses,symbol tables,scmatic analysis,and optimization.Code generation and optimization techniques.Compilers for non-ALGOL-type languages:functional languages,logical language etc.Examples will be taken from Pascal,C,CAML,PROLOG."
+  },
+  {
+    "COURSECODE": "CSC745",
+    "COURSETITLE": "DESIGN AND ANALYSIS OF ALGORITHMS",
+    "DESCRIPTION": "Design analysis techniques; divide and conquer principles,fixed point algorithm,graph problems,matrix multiplication,fast transforms,integer and polynomial arithmetic,reducibility approximation algorithms probably hard problems,amortized analysis"
+  },
+  {
+    "COURSECODE": "CSC742",
+    "COURSETITLE": "ADVANCED PROGRAMMING TECHNIQUES",
+    "DESCRIPTION": "VB:Introduction to driven\/object oriented programming concepts,user interface,objects,properties and event.Introduction to structured programming constructs of sequence,condition and iteration.Data types,variables,I-DIM variables and  central arrays,arithmetic,validation, selected standard functions,testing strategies and debbuging techniques.Program structure,data structure,file input\/output,Data validation.multiple dimension arrays,subprocedures and functions.Modular and multiple forms,reporting database links and manipulations,user defined data types and classes,Active-X controls.            JAVA: Introduction and comparison to c++,Jsvs language exceptions,streams and I\/O.Applets and applications.Events,handling and AWT\/Swing Graphics and images\/animation\/multimedia."
+  },
+  {
+    "COURSECODE": "CSC747",
+    "COURSETITLE": "ADVANCE DATABASE SYSTEMS",
+    "DESCRIPTION": "Design of database systems; relational hierarchical and network approaches.Security and integrity of databases.Deductive databases; query evaluation and inference;theoretical foundations for definite clause database and extensions; implementation issues.OODB, ERDB data warehousing and data mining. "
+  },
+  {
+    "COURSECODE": "CSC748",
+    "COURSETITLE": "INTRODUCTION TO ARTIFICIAL INTELLIGENCE",
+    "DESCRIPTION": "Knowledge assimilation and belief systems: logic of knowledge and belief; non-monotonic and default reasoning.Closed-world assumption and semantics of negation as failure.Search spaces: search methods planning:situation calculus and the frame problem,hierarchical planning,and interactive goals.Introduction to natural language processing; syntax,semantics and pragmatics.Grammars and parsing.Search versus expertise.Introduction to knowledge-based expert systems.  "
+  },
+  {
+    "COURSECODE": "CSC751",
+    "COURSETITLE": "COMPUTER NETWORKS",
+    "DESCRIPTION": "Topics include network architecture,network design,protocols,operations,logical area network,widely distributed systems,etc."
+  },
+  {
+    "COURSECODE": "CSC753",
+    "COURSETITLE": "INTRODUCTION TO FUNCTIONAL AND LOGIC PROGRAMMING",
+    "DESCRIPTION": "Functional languages extended with unification comparison and logic programming.Theoretical foundations:relation of lambda calculus to functional programming; church-Rosser properties and referential transparency.Basic model theory valuations,truth sets,satisfiability,validity);Hintika sets; completeness,compactness,decidability,analytic tableau resolution theorem proving; Skelem functions."
+  },
+  {
+    "COURSECODE": "CSC757",
+    "COURSETITLE": "ADVANCE TOPIC IN DATABASE SYSTEMS",
+    "DESCRIPTION": "Object oriented Databases:concepts,design and implementation issues.Advanced topics in Deductive databases.Survey of semantic data models-entity relationship.Semantic schema design."
+  },
+  {
+    "COURSECODE": "CSC758",
+    "COURSETITLE": "KNOWLEDGE BASED SYSTEMS",
+    "DESCRIPTION": "The concept of knowledge,basic architecture of a knowledge-based system.Knowledge representation,network semantics,production rules,frames,object oriented structures.Reasoning in a knowledge-based system:logic,approximation(Bayesian,heuristic,etc)temporal,hypothetic,qualitative.Expert Systems: principles of expert systems,examples of expert\r\nsystems;associative and casual approach has to diagnosis-rule-based diagnostic systems.MYCIN,etc.Critical appraisal:implication of a changing environment "
+  },
+  {
+    "COURSECODE": "CSC763",
+    "COURSETITLE": "INTRODUCTION TO SOFTWARE ENGINEERING",
+    "DESCRIPTION": "Introduction,organization of software projects; process models,software project life cycle:requirement analysis,design,spe ciriciation and implementation;estimation and project control documentation,testing and validation interfaces to users:evolution of software;and the role of formal methods.Software industry."
+  },
+  {
+    "COURSECODE": "CSC765",
+    "COURSETITLE": "THEORY OF COMPUTATION",
+    "DESCRIPTION": "Chomsky hierarchy:regular,contextsensitive and unrestricted grammars;charactization closure properties,algorithms and limitations.Models of computation,Universal machines.Unsolvable problems.Church's thesis.Recursively enumerable set.Diagonal arguments.Reductibility.Complexity Classes."
+  },
+  {
+    "COURSECODE": "CSC773",
+    "COURSETITLE": "FORMAL METHODS IN SOFTWARE ENGINEERING ",
+    "DESCRIPTION": "Paradigms for software development traditional and automation-based software engineering processes.Case tools and programming support environments.Requirements analysis:entities,relation and modalities.Specification and Prototype;formal specification versus prototype;specification models(SADT,HOOD,VDM,Z,..).Abstract data types:algebraic specification;semantic,completion and consistency,Object oriented systems."
+  },
+  {
+    "COURSECODE": "CSC775",
+    "COURSETITLE": "REAL TIME PROGRAMMING",
+    "DESCRIPTION": "Characteristics of real time system,Clocks and deadlines,Process interaction mechanisms:Semaphores,signal,rendezvous,Protected objects and buffers,Low-level programming,interrupt handling,Priority and pre-emptive scheduling.Introduction to real time design methodology."
+  },
+  {
+    "COURSECODE": "CSC776",
+    "COURSETITLE": "INTERNET TECHNOLOGY",
+    "DESCRIPTION": "WWW-Definition,history and fundamental concepts.                                  HTML-Document structure,images, maps,tables,frames,forms.                                                                                          HTTP,TC\/IP,URL's,CGI,MIME,server technology.                                           JavaScript-Syntax,DOM,Form Processing,Common tasks.                      Style Sheets-Fundamentals CSS formatting CSS positioning,standards.                  DHTML-Dynamic techniques,proprietary techniques.     "
+  },
+  {
+    "COURSECODE": "CSC776",
+    "COURSETITLE": "INTERNET TECHNOLOGY",
+    "DESCRIPTION": "WWW-Definition history and fundamental concept.                                     HTML-Definition structure,images,maps,tablet,frames,forms.  HTTP,TCP\/IP,URL's,CGI,MIME,server technology.                                             JavaScript-Syntax,DOM,FORM Processing,Common tasks.                              Style Sheets-Fundamentals CSS formatting CSS positioning,standards.                  DHTML-Dynamic techniques,proprietary techniques.Web Design and usability-Principle of navigation,usability,style grides and standards.Introduction to XML-Syntax,DTD's.XSL,XHTML.                         Multimedia-Audio,Video,animation,multimedia server,and protocol technology.Web development Tools:Editors,site management tools."
+  },
+  {
+    "COURSECODE": "CSC777",
+    "COURSETITLE": "INTRODUCTION TO HUMAN COMPUTER INTERACTION",
+    "DESCRIPTION": "What is HCI and why is it needed?Human information processing and human error Models of the user and interaction,Principles and application of user-oriented design,user-centered design methodologies,Interface technology,devices,styles and applications.Upstream usability engineering,task,user and situation analysis.Down stream usability engineering,experimental,interpretive and predictive evaluation.Visual and interface design guidelines,standards and metrics,Usability issues and the World Wide Web,Groupware and computer supported cooperative work. "
+  },
+  {
+    "COURSECODE": "CSC798",
+    "COURSETITLE": "M.SC.SEMINAR",
+    "DESCRIPTION": ""
+  },
+  {
+    "COURSECODE": "CSC799",
+    "COURSETITLE": "M.SC.PROJECT",
+    "DESCRIPTION": "Individual project of approval topic Related to the current research Topics in the field of Computer Science with special reference to the area of specialization at M.Sc.level"
+  },
+  {
+    "COURSECODE": "CSC741",
+    "COURSETITLE": "COMPUTER ARCHITECTURE AND NETWORKS",
+    "DESCRIPTION": "Introduction to design techniques for the synthesis of digital computers.Principles of computer structure and design as applied to major computer functions; direct-execution architecture,intermediate image architecture and micro-instructions as an image architecture.Networks; a comparison of services offered(virtual circuit or data gram)and protocol functions such as addressing,routing,error,and flow control,synchronization and multiplexing for each layer of ISO Reference Model.Case studies include Ethernet,CONIC,token Bus and Decnet."
+  },
+  {
+    "COURSECODE": "CSC742",
+    "COURSETITLE": "OPERATING SYSTEMS TECHNIQUES",
+    "DESCRIPTION": "An introduction to the principles of operating systems.Topics include multiprogramming;multiprocessing,timesharing processes; synchronization ans communication;memory management including partitions;base and limit registers,paging and segmentation; input-output; filling systems; deadlock; security.Examples will be taken from modern operating systems such as UNIX."
+  },
+  {
+    "COURSECODE": "CSC743",
+    "COURSETITLE": "ADVANCE COMPILING TECHNIQUES",
+    "DESCRIPTION": "An introduction to compilers; attribute grammar,syntax-directed translation,lex,yarc LR(1) parses,symbol tables,scmatic analysis,and optimization.Code generation and optimization techniques.Compilers for non-ALGOL-type languages:functional languages,logical language etc.Examples will be taken from Pascal,C,CAML,PROLOG."
+  },
+  {
+    "COURSECODE": "CSC745",
+    "COURSETITLE": "DESIGN AND ANALYSIS OF ALGORITHMS",
+    "DESCRIPTION": "Design analysis techniques; divide and conquer principles,fixed point algorithm,graph problems,matrix multiplication,fast transforms,integer and polynomial arithmetic,reducibility approximation algorithms probably hard problems,amortized analysis"
+  },
+  {
+    "COURSECODE": "CSC742",
+    "COURSETITLE": "ADVANCED PROGRAMMING TECHNIQUES",
+    "DESCRIPTION": "VB:Introduction to driven\/object oriented programming concepts,user interface,objects,properties and event.Introduction to structured programming constructs of sequence,condition and iteration.Data types,variables,I-DIM variables and  central arrays,arithmetic,validation, selected standard functions,testing strategies and debbuging techniques.Program structure,data structure,file input\/output,Data validation.multiple dimension arrays,subprocedures and functions.Modular and multiple forms,reporting database links and manipulations,user defined data types and classes,Active-X controls.            JAVA: Introduction and comparison to c++,Jsvs language exceptions,streams and I\/O.Applets and applications.Events,handling and AWT\/Swing Graphics and images\/animation\/multimedia."
+  },
+  {
+    "COURSECODE": "CSC747",
+    "COURSETITLE": "ADVANCE DATABASE SYSTEMS",
+    "DESCRIPTION": "Design of database systems; relational hierarchical and network approaches.Security and integrity of databases.Deductive databases; query evaluation and inference;theoretical foundations for definite clause database and extensions; implementation issues.OODB, ERDB data warehousing and data mining. "
+  },
+  {
+    "COURSECODE": "CSC748",
+    "COURSETITLE": "INTRODUCTION TO ARTIFICIAL INTELLIGENCE",
+    "DESCRIPTION": "Knowledge assimilation and belief systems: logic of knowledge and belief; non-monotonic and default reasoning.Closed-world assumption and semantics of negation as failure.Search spaces: search methods planning:situation calculus and the frame problem,hierarchical planning,and interactive goals.Introduction to natural language processing; syntax,semantics and pragmatics.Grammars and parsing.Search versus expertise.Introduction to knowledge-based expert systems.  "
+  },
+  {
+    "COURSECODE": "CSC751",
+    "COURSETITLE": "COMPUTER NETWORKS",
+    "DESCRIPTION": "Topics include network architecture,network design,protocols,operations,logical area network,widely distributed systems,etc."
+  },
+  {
+    "COURSECODE": "CSC753",
+    "COURSETITLE": "INTRODUCTION TO FUNCTIONAL AND LOGIC PROGRAMMING",
+    "DESCRIPTION": "Functional languages extended with unification comparison and logic programming.Theoretical foundations:relation of lambda calculus to functional programming; church-Rosser properties and referential transparency.Basic model theory valuations,truth sets,satisfiability,validity);Hintika sets; completeness,compactness,decidability,analytic tableau resolution theorem proving; Skelem functions."
+  },
+  {
+    "COURSECODE": "CSC757",
+    "COURSETITLE": "ADVANCE TOPIC IN DATABASE SYSTEMS",
+    "DESCRIPTION": "Object oriented Databases:concepts,design and implementation issues.Advanced topics in Deductive databases.Survey of semantic data models-entity relationship.Semantic schema design."
+  },
+  {
+    "COURSECODE": "CSC758",
+    "COURSETITLE": "KNOWLEDGE BASED SYSTEMS",
+    "DESCRIPTION": "The concept of knowledge,basic architecture of a knowledge-based system.Knowledge representation,network semantics,production rules,frames,object oriented structures.Reasoning in a knowledge-based system:logic,approximation(Bayesian,heuristic,etc)temporal,hypothetic,qualitative.Expert Systems: principles of expert systems,examples of expert\r\nsystems;associative and casual approach has to diagnosis-rule-based diagnostic systems.MYCIN,etc.Critical appraisal:implication of a changing environment "
+  },
+  {
+    "COURSECODE": "CSC763",
+    "COURSETITLE": "INTRODUCTION TO SOFTWARE ENGINEERING",
+    "DESCRIPTION": "Introduction,organization of software projects; process models,software project life cycle:requirement analysis,design,spe ciriciation and implementation;estimation and project control documentation,testing and validation interfaces to users:evolution of software;and the role of formal methods.Software industry."
+  },
+  {
+    "COURSECODE": "CSC765",
+    "COURSETITLE": "THEORY OF COMPUTATION",
+    "DESCRIPTION": "Chomsky hierarchy:regular,contextsensitive and unrestricted grammars;charactization closure properties,algorithms and limitations.Models of computation,Universal machines.Unsolvable problems.Church's thesis.Recursively enumerable set.Diagonal arguments.Reductibility.Complexity Classes."
+  },
+  {
+    "COURSECODE": "CSC773",
+    "COURSETITLE": "FORMAL METHODS IN SOFTWARE ENGINEERING ",
+    "DESCRIPTION": "Paradigms for software development traditional and automation-based software engineering processes.Case tools and programming support environments.Requirements analysis:entities,relation and modalities.Specification and Prototype;formal specification versus prototype;specification models(SADT,HOOD,VDM,Z,..).Abstract data types:algebraic specification;semantic,completion and consistency,Object oriented systems."
+  },
+  {
+    "COURSECODE": "CSC775",
+    "COURSETITLE": "REAL TIME PROGRAMMING",
+    "DESCRIPTION": "Characteristics of real time system,Clocks and deadlines,Process interaction mechanisms:Semaphores,signal,rendezvous,Protected objects and buffers,Low-level programming,interrupt handling,Priority and pre-emptive scheduling.Introduction to real time design methodology."
+  },
+  {
+    "COURSECODE": "CSC776",
+    "COURSETITLE": "INTERNET TECHNOLOGY",
+    "DESCRIPTION": "WWW-Definition,history and fundamental concepts.                                  HTML-Document structure,images, maps,tables,frames,forms.                                                                                          HTTP,TC\/IP,URL's,CGI,MIME,server technology.                                           JavaScript-Syntax,DOM,Form Processing,Common tasks.                      Style Sheets-Fundamentals CSS formatting CSS positioning,standards.                  DHTML-Dynamic techniques,proprietary techniques.     "
+  },
+  {
+    "COURSECODE": "CSC776",
+    "COURSETITLE": "INTERNET TECHNOLOGY",
+    "DESCRIPTION": "WWW-Definition history and fundamental concept.                                     HTML-Definition structure,images,maps,tablet,frames,forms.  HTTP,TCP\/IP,URL's,CGI,MIME,server technology.                                             JavaScript-Syntax,DOM,FORM Processing,Common tasks.                              Style Sheets-Fundamentals CSS formatting CSS positioning,standards.                  DHTML-Dynamic techniques,proprietary techniques.Web Design and usability-Principle of navigation,usability,style grides and standards.Introduction to XML-Syntax,DTD's.XSL,XHTML.                         Multimedia-Audio,Video,animation,multimedia server,and protocol technology.Web development Tools:Editors,site management tools."
+  },
+  {
+    "COURSECODE": "CSC777",
+    "COURSETITLE": "INTRODUCTION TO HUMAN COMPUTER INTERACTION",
+    "DESCRIPTION": "What is HCI and why is it needed?Human information processing and human error Models of the user and interaction,Principles and application of user-oriented design,user-centered design methodologies,Interface technology,devices,styles and applications.Upstream usability engineering,task,user and situation analysis.Down stream usability engineering,experimental,interpretive and predictive evaluation.Visual and interface design guidelines,standards and metrics,Usability issues and the World Wide Web,Groupware and computer supported cooperative work. "
+  },
+  {
+    "COURSECODE": "CSC798",
+    "COURSETITLE": "M.SC.SEMINAR",
+    "DESCRIPTION": ""
+  },
+  {
+    "COURSECODE": "CSC799",
+    "COURSETITLE": "M.SC.PROJECT",
+    "DESCRIPTION": "Individual project of approval topic Related to the current research Topics in the field of Computer Science with special reference to the area of specialization at M.Sc.level"
+  },
+  {
+    "COURSECODE": "CSC813",
+    "COURSETITLE": "SELECTED TOPICS IN PROGRAMMING LANGUAGES ",
+    "DESCRIPTION": "Topics of interest in programming language design and implementation.Topics include object-oriented programming,parallel programming,programming language Semantics."
+  },
+  {
+    "COURSECODE": "CSC818",
+    "COURSETITLE": "SPECIAL TOPICS IN KNOWLEDGE REPRESENTATION ",
+    "DESCRIPTION": "Among topics to be considered will be time,necessity(and possibility),conditions,relevance,knowledge(and brief),non-monotonicity and meta-level reasoning(including problems of self-reference).Logical characterizations will be investigated and selected applications in the area of planning will be studied.   "
+  },
+  {
+    "COURSECODE": "CSC823",
+    "COURSETITLE": "APPLICATIONS PROGRAMMING",
+    "DESCRIPTION": "Application of software engineering methodology to real-world applications of computers.This course emphasizes implementation of a working software system in a team environment."
+  },
+  {
+    "COURSECODE": "CSC828",
+    "COURSETITLE": "ADVANCED ARTIFICIAL INTELLIGENCE",
+    "DESCRIPTION": "Explore the key theoretical and practical problems encountered in each of the following sub-areas of artificial intelligence:planning,natural language and understanding,speech understanding,vision,learning and design."
+  },
+  {
+    "COURSECODE": "CSC838",
+    "COURSETITLE": "NEURAL NETWORKS",
+    "DESCRIPTION": "The history and aims of brain modelling.For and against perceptions.Man's approaches to vision.A selection of network paragiagms and their properties: Hopfield,Boltzmann machines,error back propagation,Kohonen,etc.Applications,Architectural issues.Logic approaches.Genetic algorithms as adaptive search."
+  },
+  {
+    "COURSECODE": "CSC873",
+    "COURSETITLE": "SPECIAL TOPICS IN SOFTWARE ENGINEERING",
+    "DESCRIPTION": "This course will be presented through consideration of examples and will be supported by readings,demonstrations and discussion,Seminars on leading Software environments will be an important part of the course.Examples to be covered include:integrated environments such as UNIX,PCTE,ALF,IPSE 2.5,Aspect,ISTAR,arcadia,MARVEL.Programmers Apprentice.Other topics:configuration control,project management tools and high-end CASE tools."
+  }
+]

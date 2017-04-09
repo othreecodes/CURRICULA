@@ -1,0 +1,203 @@
+
+[
+  {
+    "COURSECODE": "CSC 101",
+    "COURSETITLE": "INTRODUCTION TO COMPUTER SCIENCE",
+    "DESCRIPTION": "Overview of the discipline of computer Science; General structure of a computer system; Historical development of computer systems; Generations of computer system; Computer operations; Internal structure of a computer hardware; Microcomputer technology; Computer numbering system; Computer arithmetic; Computer data representation schemes; Problem solving with computers in the Society; Internet and its facilities,Basic file processing concepts; Introduction to computer programming language; Algorithms. Data Structures & Logic ; Laboratory exercises in VISUAL BASIC programming and the internet"
+  },
+  {
+    "COURSECODE": "CSC 212",
+    "COURSETITLE": "INTRODUCTION TO COMPUTER ELECTRONICS",
+    "DESCRIPTION": "Basic circuit theory; Kirchoffs law, Norton theorem.etc ; Semi-conductors; Diodes,bipolar junction and field effect transistors; Elementary digital circuits; AND,OR,NOT,NAND,NOR gates implementation of different logic families; TTL.CMOS.ECL.etc,Simple computer circuits; Oscillators; Simple sequential circuits; Registers,counters,multiplexers,decoders; Laboratory exercises. "
+  },
+  {
+    "COURSECODE": "CSC 221",
+    "COURSETITLE": "INTRODUCTION TO OPERATING SYSTEM",
+    "DESCRIPTION": "Definition of an operating system; Types of operating systems; Real time(single-user\/multiuser) timesharing; Examples :DOS,CP\/M, UNIT\/ZENITH\/LINUX.MS 9719812000,etc. ; Components of an operating system; SUpervisor,memory manager,I\/O handlers,file system,etc. ; Operating system interface with the hardware; Interupts,ito channel,multiplexer,registers, status words ; Operating system interface with other systems softwares; Linkers translators,libraries,etc. ; Storage organisation and protection. ; Laboratory exercises using a microcomputer operating system,e.g.MS97\/98\/2000."
+  },
+  {
+    "COURSECODE": "CSC 231",
+    "COURSETITLE": "SCIENTIFIC PROGRAMMING",
+    "DESCRIPTION": "FORTRAN programming language; Comparison  of various versions of the language. ; Programming exercises using FORTRAN with emphasis on scientific application problems."
+  },
+  {
+    "COURSECODE": "CSC 232",
+    "COURSETITLE": "STRUCTURED PROGRAMMING",
+    "DESCRIPTION": "Elements of the structured programming concepts:Structured design principles; Abstraction,modularity,stepwise refinement,structured design techniques ; Teaching of a structured programming language,e.g.PASCA\/JAVA,C++. ; Laboratory exercises using using the programming language."
+  },
+  {
+    "COURSECODE": "CSC 233",
+    "COURSETITLE": "PROGRAMMING & ALGORITHMS",
+    "DESCRIPTION": "The program development process, program design, coding and testing principles of good programming styles; Program verification techniques; Program documentation & maintenance; Program design tools, e.g.flowcharts,pseudocodes,etc ; Illustration of the various concepts with practical programming problems of manageable  complexity e.g,Knight's tour or 8-queens,life game problems,etc. ; Algoritms and data structures, Divide-and-conquer algorithms; Stacks queues,best-and average-case performance of the algorithms. ; Recursion,Hill-climbing techniques. ; Laboratory exercises using relevant programming languages such as C and C++."
+  },
+  {
+    "COURSECODE": "CSC 234",
+    "COURSETITLE": "ASSEMBLY LANGUAGE PROGRAMMING",
+    "DESCRIPTION": "Review of data and instruction representation modes; Instruction execution and flow control Programming in assembly language; Interfacing assembly language programs to high level language program; Laboratory exercises"
+  },
+  {
+    "COURSECODE": "CSC 241",
+    "COURSETITLE": "DISCRETE STRUCTURES",
+    "DESCRIPTION": "Sets ; Relations ; Algebras ; Orderings, Partial orderings ; Directed and Undirected graphs Lattices ; Lattices ; Logic ; Graph,Basic graph theorems. ; Adjacency vectors,matrices ; Algorithms: Roy Warshall ; Planarity algorithms,etc. ; Applications. ; Counting. ; Generating functions,Recurrence relations. ; Discrete Probability."
+  },
+  {
+    "COURSECODE": "CSC 272",
+    "COURSETITLE": "INFORMATION MANAGEMENT SYSTEMS",
+    "DESCRIPTION": "Introduction to data management & office applications of computer. ; The microcomputers. ; Includes teaching a database management language e.g .DBASE,Oracle,Access,a Spreadsheet package and a Wordprocessor."
+  },
+  {
+    "COURSECODE": "CSC 291",
+    "COURSETITLE": "ELEMENTARY DATA PROCESSING",
+    "DESCRIPTION": "Basic EDP concepts ; Files,Records<Blocks. ; Basic File Organization Devices and concepts. ; Magnetic Tapes and Storage density ; Magnetic Disks: Seek Time & Rotational Latency,Sequential and Random File Processing ; Business Programming in COBOL,ADA,SQL ; Laboratory Exercises in COBOL,ADA,and SQL."
+  },
+  {
+    "COURSECODE": "CSC 292",
+    "COURSETITLE": "BUSINESS PROGRAMMING",
+    "DESCRIPTION": "The programming language - HTML, JAVASCRIPT, PHP; Comparison of versions of HTML, JAVASCRIPT, PHP; Laboratory exercises involving solving practical business application problems using PHP."
+  },
+  {
+    "COURSECODE": "CSC 301",
+    "COURSETITLE": "COMPUTER CENTRE MANAGEMENT",
+    "DESCRIPTION": "Organisational and administrative structure of a computer centre; Roles of computing centres; General operating procedures; Staff recruiting techniques; Computer project management; Computer systems acquisition procedure; Computer system evaluation procedure and criteria; Computer resources management; Psychology of local vendors; Computer system security considerations. Submission of a group project report of case study of a computer centre."
+  },
+  {
+    "COURSECODE": "CSC 302",
+    "COURSETITLE": "SYSTEM ANALYSIS",
+    "DESCRIPTION": "General systems concept; System projects team organisation; Overview of system development process; Project identification and selection; System requirements analysis and feasibility study; Fact finding techniques; System design; Analysis techniques anbd tools e.g.Jackson System Development (JSD)techniques etc. ; Data flow diagrams,HIPO charts. ; Business system design; Procurement,site preparation,system installation,system testing,system conversion; System project,report writing & presentation; System documentation; Post installation evaluation; Compilation of a real-life systems analysis team project to provide experience in applying the principles and techniques presented above."
+  },
+  {
+    "COURSECODE": "CSC 311",
+    "COURSETITLE": "DIGITAL COMPUTER LOGIC DESIGN",
+    "DESCRIPTION": "Symbolic logic and truth functional calculus. ; Boolean Algebra and logic gates; Switching function minimization; e.g.algebraic,karnaugh map,Quine McCluskey,etc. ; Combinational circuits design; Combinational logic with MST and LSI; Sequential circuits design; Bistables,SR,JK.D & T, registers,counters and the memory unit; Register transfer logic; Sequential machines minimization. ; Arithmetic circuits instruction formats and sequencing, error detection  and correction. ; Arithmetic logic,  synchronous and asynchronous control logic design; CUP logic design."
+  },
+  {
+    "COURSECODE": "CSC 312",
+    "COURSETITLE": "COMPUTER HARDWARE",
+    "DESCRIPTION": "Computer circuits; Diode arrays,PLAs etc. ; Integrated circuit fabrication process. ; Use of MSI,LSI and VLSI IC's in hardware design. ; Primary and secondary memories; Core memory.etc. ; Magnetic devices disks,tapes,video disks etc. ;Peripheral devices; Printers, CRT's, keyboards, character recognition. ; Operational amplifiers; Analog-to-digital & digital-to-analog converter. ; Analog computers. ; Channel & interrupts.  "
+  },
+  {
+    "COURSECODE": "CSC 321",
+    "COURSETITLE": "COMPUTER OPERATING SYSTEM I",
+    "DESCRIPTION": "Historical development of operating systems and computer hardware. ; Operating systems types; Necessary hardware requirement and operating characteristics. ; Concurrent programming, batch versus time sharing, multi-processing systems; The supervisor, resources allocation and deallocation. ; Interrupts & interrupts handling. ;Device handlers; Memory organisation virtual memory & virtual machine, remote job entry. ; Pipeline processing command languages more about DOS\/VS\/JCL in respect maintenance of libraries and job organisation. "
+  },
+  {
+    "COURSECODE": "CSC 332",
+    "COURSETITLE": "SURVEY OF PROGRAMMING LANGUAGE",
+    "DESCRIPTION": "Comparative study of basic structures and implementations of some types of programming languages control structures data flow; Subroutine; Interrupts; Block structure scope of variables, information binding. ; Mechanisms of procedures and parameters,data storage and mapping, execution environments; Comparative programming; Examples from procedure oriented list processing, interactive and other types of programming languages. ; Functional,logic and object oriented extensions to conventional programming languages."
+  },
+  {
+    "COURSECODE": "CSC 333",
+    "COURSETITLE": "SOFTWARE ENGINEERING I",
+    "DESCRIPTION": "Top-DOWN design ; Modularity. ;Technical and managerial problem of software development design representatives e.g.pseudo code HIPO diagrams CASE tools and programming Environments. "
+  },
+  {
+    "COURSECODE": "CSC 334",
+    "COURSETITLE": "SYSTEM PROGRAMMING",
+    "DESCRIPTION": "Introduction to system programming; Several System programming languages; Linkers and Loaders; LINUX and ASSEMBLY language. ; Assignment of a system programming project to be implemented."
+  },
+  {
+    "COURSECODE": "CSC 341",
+    "COURSETITLE": "DATA STRUCTURES",
+    "DESCRIPTION": "Basic data structures including list & trees. ; Cconstructs for specifying and manipulating data types. ; List structures. ;Binary. ;AVL and other trees,traversal algorithm,graphs,rings,recursive programming,storage managements ; Sacks,queues,language features affecting stactic & dynamic data structures,fixed & variables sized blocks, best-fit, first-fit,etc. ; Garbage collection, fragmentation, buddy system, block compaction & relocation hash tables. ; Programming exercises involving the implementation and use of data structures."
+  },
+  {
+    "COURSECODE": "CSC 351",
+    "COURSETITLE": "FORMAL LANGUAGES AND AUTOMATA THEORY",
+    "DESCRIPTION": "Introduction to language structures; Languages and their representations; Grammars; Formal notations,types,Chomsky's language hierarchy; Sentence generation and recognition; Derivations; Ambiquity and syntax trees; Precedence grammars. ; Recognizers, Regular grammars and finite state automatal context-free grammars; Chomsky,Greibach Normal Forms Push-Down automata,LR(K),grammars,Recursive languages; Semantics. ; Lab,exercises"
+  },
+  {
+    "COURSECODE": "CSC 381",
+    "COURSETITLE": "COMPUTER GRAPHICS",
+    "DESCRIPTION": "Mathematics of 3-Ds and projections; Graphical data structures; Characteristics,and types of display memories; Graphics hardware including digital plotters and display devices; Graphics,software; Laboratory exercise."
+  },
+  {
+    "COURSECODE": "CSC 391",
+    "COURSETITLE": "FILE MANAGEMENT",
+    "DESCRIPTION": "Review of basic file processing concepts; The file management concepts; Basic terminology and concepts; Structure of file management systems; Data flow between systems; Blocking & deblocking; Files; Searching and sorting techniques,merging; Relevant I\/O facilities for files processing of some high level programming languages such as FORTRAN,COBOL,PASCAL,etc; File organisation methods: sequential indexed,direct\/random,etc;Data validation; Report generation, file management packages; File management security & integrity; Assignment & completion of a data processing project.Structures. "
+  },
+  {
+    "COURSECODE": "CSC 392",
+    "COURSETITLE": "COMPUTER APPLICATIONS",
+    "DESCRIPTION": "Groups seminars on computer application in selected areas. STUDENTS Topics should also cover social, culture, psychological, political and economic consequences of the use\/misuse of computers in a variety of situations in the society; The future of computers. Computer technology and usage."
+  },
+  {
+    "COURSECODE": "CSC 399",
+    "COURSETITLE": "INDUSTRIAL TRAINING",
+    "DESCRIPTION": "Student's Industrial work experience of 6 months duration. Students report will be presented in a seminar."
+  },
+  {
+    "COURSECODE": "CSC 412",
+    "COURSETITLE": "COMPUTER ARCHITECTURE & ORGANISATION",
+    "DESCRIPTION": "Levels of machine design; Gates,register and processor levels.Number systems and computer Arithmetic,CPU design:Instruction set,Instrument mix.Von Neuman architecture,multiplication and division algorithms and implementation.Floating point processors.Parallelism; multiprocessors,pipelining,etc.Control unit design:Hard wired and multi-programming control,Memory design;Review of memory technologies,cost performance consideration,hierarchical memory design,cache,associative and interleaved memory system organsation,fault tolerance.RISC machines."
+  },
+  {
+    "COURSECODE": "CSC 421",
+    "COURSETITLE": "COMPUTER OPERATING SYSTEM II",
+    "DESCRIPTION": "Files system ,memory management,job management & Mathematical theory of job scheduling; Operating systems implementation techniques,modular abstraction,performance evaluation process,semaphore,critical regions,deadlocks,mutual exclusion,synchronization,P & V operations,resource protection.The operating system,study of a time sharing operating system,e.g.UNIX,DOS\/VS"
+  },
+  {
+    "COURSECODE": "CSC 422",
+    "COURSETITLE": "INFORMATION THEORY&COMPUTER COMMUNICATION SYSTEMS",
+    "DESCRIPTION": "Historical background of information theory models or computation systems,coding theory.Information & encoding,basic concepts of of interactive computing,interactive terminals devices protocols,direct links,communication channels,telecommunication links,simplex,half duplex,duplex,mutiplexer,concentrators,computer networks operating system for online processing routing algorithms,response,time reliability and security."
+  },
+  {
+    "COURSECODE": "CSC 423",
+    "COURSETITLE": "DISTRIBUTED SYSTEMS",
+    "DESCRIPTION": "Distributed processing.Function distribution.Horizontal distributed system,Hierarchical distributed system strategies,control complexity,problems in incompatibility,Centralization versus Decentralization,Cost-Benefit Analysis."
+  },
+  {
+    "COURSECODE": "CSC 431",
+    "COURSETITLE": "COMPILING TECHNIQUES",
+    "DESCRIPTION": "Recapitulation of formal grammars;source code and target code structure of typical compiler,comparative compiling techniques,Lexical analysis syntax analysis; Simple precedence,operator precedence,LR(K)parsers; Semantics.Run time storage allocation code generation and code optimization.Compiler-compilers.Laboratory exercises.of a time sharing operating system,e.g.UNIX,DOS\/VS. "
+  },
+  {
+    "COURSECODE": "CSC 432",
+    "COURSETITLE": "COMPILER CONSTRUCTION",
+    "DESCRIPTION": "Pragmastics of compiler writing; Translator writing Error recovery and optimization problems; Laboratory exercises leading to the productions of major parts of a compiler for an actual programming language. "
+  },
+  {
+    "COURSECODE": "CSC 433",
+    "COURSETITLE": "SOFTWARE ENGINEERING II",
+    "DESCRIPTION": "Program Testing; Software Reliability models Availability models.Management Techniques.Formal Methods,e.g.VDM,OBJ."
+  },
+  {
+    "COURSECODE": "CSC 451",
+    "COURSETITLE": "ANALYSIS OF ALGORITHMS",
+    "DESCRIPTION": "Asymptotics; Recurrence relation and generating functions; combinatories; RAM and PRAM models; Uniform and logarithm cost criterion; Parallel Algorithms Graph Alhorithms and Analysis; NP-Completeness; Relation to Turning machines and Computational Complexity Armotized Analysis. "
+  },
+  {
+    "COURSECODE": "CSC 452",
+    "COURSETITLE": "THEORY OF COMPUTATION",
+    "DESCRIPTION": "Finite Automata,Turning machines,Recursively enumerable sets,Halting Problem.Computability and Decidability.Predicate Logic Validity Problem,Deduction,Herband's,procedures        Robinson's resolution rule.Program Verification; Formal Semantics."
+  },
+  {
+    "COURSECODE": "CSC 472",
+    "COURSETITLE": "DATABASE SYSTEMS",
+    "DESCRIPTION": "Basic concept of data base history of DBMS types of databases;specific problems of data independence;data reliability, integrity,etc;data management,data base generation;raw data,data definitions,data structurem storage structure data base logical & physical organisations,interrogation,data,model,network,hierarchical relational,security,policies,privacy quality & integrity protection mechanism.  "
+  },
+  {
+    "COURSECODE": "CSC 473",
+    "COURSETITLE": "ARTIFICIAL INTELLIGENCE",
+    "DESCRIPTION": "Basic A1 issues attention.Search Control,Game trees,knowledge representation.Application of A1 techniques in natural languages,scene analysis,expert systems,KBCS robot planning.Lab.exercises in A1 lang.e.g.LISP\/Prolog."
+  },
+  {
+    "COURSECODE": "CSC 474",
+    "COURSETITLE": "EXPERT SYSTEMS",
+    "DESCRIPTION": "Study of different classes of expert systems,e.g.Rule Based:MYCIN or PROSPECTOR,Blackboard; HEARSAY or CRYLIS,Expert System shells e.g Rule Based e.g.P-MYCIN,EXPERT,S.I.Frame Based e.g.KEE,KL-ONE.Merit & Demerits of natural language interface fer expert systems.Extensive independent study of recent development in the field & the submission of a group proposal for the application of Expert System in the different areas."
+  },
+  {
+    "COURSECODE": "CSC 482",
+    "COURSETITLE": "COMPUTER SIMULATIONS",
+    "DESCRIPTION": "Simple theories of queues,stochastic processes and random numbers,definition and uses of simulation; Discrete simulation models,design of simulation experiments; Simulation langs,detailed study of a chosen simulation language;applications;Lab.exercises."
+  },
+  {
+    "COURSECODE": "CSC 492",
+    "COURSETITLE": "SELECTED TOPICS IN COMPUTER SCIENCE",
+    "DESCRIPTION": "e.g Performance Evaluation of Computer Systems.Concurrent Programming,Pattern Recognition,Distributed Databases.Deductive Databases,Programming Environments,High-Level Language and Data flow Architectures,Computer Vision,planning,Natural and spoken Language Understanding,Temporal Logics,supercomputing,VLSI design:Human Computer interaction."
+  },
+  {
+    "COURSECODE": "CSC 495",
+    "COURSETITLE": "PROJECTS",
+    "DESCRIPTION": "Individual or Group projects of approved topics related to the curren research interests in the department."
+  }
+]

@@ -1,0 +1,67 @@
+<ion-header>
+  <ion-navbar>
+    <ion-title>CURRICULA</ion-title>
+  </ion-navbar>
+
+</ion-header>
+
+<style>
+  .toolbar-background-md {
+  border-color: #b2b2b2;
+  background: red !important;
+}
+
+  ion-header{
+    color: red;
+  }
+  ion-content{
+    background: url('assets/images/4.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  }
+
+  .getbutton{
+    margin-top: 20px;
+    color:white;
+    font-size: 20px;
+  }
+  .getbutton ion-icon{
+    color:white;
+    font-size: 30px;
+    margin: 5px;
+  }
+  p{
+    color: white;
+    text-size:15px;
+    font-weight: bold;
+  }
+
+  ion-list button{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background: transparent;
+    color: white;
+    font-size: 20px;
+  }
+
+
+
+</style>
+
+
+
+<ion-content padding>
+
+<ion-searchbar (ionInput)="getItems($event)"></ion-searchbar>
+<br>
+
+<ion-list>
+    <button ion-item *ngFor="let item of items" (click)="openStatusPage(item)" text-wrap>
+    <!--<ion-icon [name]="'logo-' + item.icon" [ngStyle]="{'color': item.color}" item-left></ion-icon>-->
+      {{ item.name }}
+    </button>
+</ion-list>
+
+</ion-content>

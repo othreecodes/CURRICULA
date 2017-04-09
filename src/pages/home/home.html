@@ -1,0 +1,55 @@
+<ion-header>
+    <ion-navbar primary>
+        <ion-title>Home</ion-title>
+    </ion-navbar>
+</ion-header>
+
+<style>
+  ion-content{
+    background: url('assets/images/4.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  }
+
+
+  .getbutton{
+    margin-top: 20px;
+    color:#387ef5;
+    font-size: 20px;
+    font-weight: bold;
+  }
+  .getbutton ion-icon{
+    color:#387ef5;
+    font-size: 30px;
+    margin: 5px;
+  }
+  p{
+    color: white;
+    text-size:15px;
+    font-weight: bold;
+  }
+
+</style>
+
+<ion-content padding>
+<ion-img src="assets/images/index.png" round></ion-img>
+
+  <p text-center text-justify>
+    University of Ibadan, the oldest and the most prestigious Nigerian university, located five miles from the centre of the major city of Ibadan, Oyo State, was founded in 1948 and formerly known as University College Ibadan while its motto is <i>Recte Sapere Fons</i>. The institution had three founding Faculties -
+    Arts, Science, and Medicine, but today, there are 13 Faculties. <br/>
+
+    The Faculty of Science began in 1969.
+  </p>
+
+  <p text-center text-justify>
+    Welcome! <br/> CURRICULA is a user-based monitoring app used to track the course outline and improve class interaction by updating an after-class feedback on each course that was treated..
+  </p>
+
+  <button class="getbutton" ion-button (click)="openDeptPage(item)" color="light" block padding-horizontal text-center>
+    <ion-icon name="star"></ion-icon>
+    GET STARTED
+  </button>
+
+</ion-content>

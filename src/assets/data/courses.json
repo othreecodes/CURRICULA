@@ -1,0 +1,524 @@
+[
+  {
+    "courseid": "47",
+    "code": "CSC101",
+    "unit": "4",
+    "title": "Intro. to Computer Science",
+    "mode": "C",
+    "prereq": "None",
+    "level": "100"
+  },
+  {
+    "courseid": "6",
+    "code": "CSC212",
+    "unit": "3",
+    "title": "Intro to Computer Electronics",
+    "mode": "R",
+    "prereq": "CSC311",
+    "level": "200"
+  },
+  {
+    "courseid": "14",
+    "code": "CSC221",
+    "unit": "3",
+    "title": "Introduction to Operating System",
+    "mode": "C",
+    "prereq": "CSC311",
+    "level": "200"
+  },
+  {
+    "courseid": "7",
+    "code": "CSC231",
+    "unit": "3",
+    "title": "Scientific Programming",
+    "mode": "C",
+    "prereq": "None",
+    "level": "200"
+  },
+  {
+    "courseid": "17",
+    "code": "CSC232",
+    "unit": "3",
+    "title": "Structured Programming",
+    "mode": "R",
+    "prereq": "None",
+    "level": "200"
+  },
+  {
+    "courseid": "13",
+    "code": "CSC233",
+    "unit": "4",
+    "title": "Programming and Algorithms",
+    "mode": "R",
+    "prereq": "None",
+    "level": "200"
+  },
+  {
+    "courseid": "9",
+    "code": "CSC234",
+    "unit": "3",
+    "title": "Assembly Language Programming",
+    "mode": "C",
+    "prereq": "None",
+    "level": "200"
+  },
+  {
+    "courseid": "10",
+    "code": "CSC241",
+    "unit": "4",
+    "title": "Discrete Structures",
+    "mode": "R",
+    "prereq": "None",
+    "level": "200"
+  },
+  {
+    "courseid": "1",
+    "code": "CSC291",
+    "unit": "3",
+    "title": "Elementary Data Processing",
+    "mode": "R",
+    "prereq": "None",
+    "level": "200"
+  },
+  {
+    "courseid": "8",
+    "code": "CSC292",
+    "unit": "3",
+    "title": "Business Programming",
+    "mode": "C",
+    "prereq": "None",
+    "level": "200"
+  },
+  {
+    "courseid": "34",
+    "code": "CSC301",
+    "unit": "2",
+    "title": "Computer Center Management",
+    "mode": "C",
+    "prereq": "None",
+    "level": "300"
+  },
+  {
+    "courseid": "35",
+    "code": "CSC302",
+    "unit": "3",
+    "title": "Systems Analysis",
+    "mode": "R",
+    "prereq": "None",
+    "level": "300"
+  },
+  {
+    "courseid": "15",
+    "code": "CSC311",
+    "unit": "3",
+    "title": "Digital Computer Logic Design",
+    "mode": "C",
+    "prereq": "None",
+    "level": "300"
+  },
+  {
+    "courseid": "36",
+    "code": "CSC312",
+    "unit": "2",
+    "title": "Computer Hardware",
+    "mode": "R",
+    "prereq": "None",
+    "level": "300"
+  },
+  {
+    "courseid": "37",
+    "code": "CSC321",
+    "unit": "2",
+    "title": "Computer Operating Systems I",
+    "mode": "C",
+    "prereq": "None",
+    "level": "300"
+  },
+  {
+    "courseid": "38",
+    "code": "CSC332",
+    "unit": "3",
+    "title": "Survey of Programming Languages",
+    "mode": "C",
+    "prereq": "None",
+    "level": "300"
+  },
+  {
+    "courseid": "39",
+    "code": "CSC333",
+    "unit": "3",
+    "title": "Software Engineering I",
+    "mode": "C",
+    "prereq": "None",
+    "level": "300"
+  },
+  {
+    "courseid": "40",
+    "code": "CSC334",
+    "unit": "3",
+    "title": "Systems Programming",
+    "mode": "C",
+    "prereq": "None",
+    "level": "300"
+  },
+  {
+    "courseid": "41",
+    "code": "CSC341",
+    "unit": "3",
+    "title": "Data Structures",
+    "mode": "R",
+    "prereq": "None",
+    "level": "300"
+  },
+  {
+    "courseid": "42",
+    "code": "CSC351",
+    "unit": "3",
+    "title": "Formal Languages and Automata Theory",
+    "mode": "R",
+    "prereq": "None",
+    "level": "300"
+  },
+  {
+    "courseid": "43",
+    "code": "CSC381",
+    "unit": "3",
+    "title": "Computer Graphics",
+    "mode": "E",
+    "prereq": "None",
+    "level": "300"
+  },
+  {
+    "courseid": "44",
+    "code": "CSC391",
+    "unit": "3",
+    "title": "File Management",
+    "mode": "C",
+    "prereq": "None",
+    "level": "300"
+  },
+  {
+    "courseid": "45",
+    "code": "CSC392",
+    "unit": "3",
+    "title": "Computer Applications",
+    "mode": "R",
+    "prereq": "None",
+    "level": "300"
+  },
+  {
+    "courseid": "46",
+    "code": "CSC399",
+    "unit": "3",
+    "title": "Industrial Training II",
+    "mode": "R",
+    "prereq": "None",
+    "level": "300"
+  },
+  {
+    "courseid": "20",
+    "code": "CSC411",
+    "unit": "3",
+    "title": "Microcomputers and Microprocessors",
+    "mode": "R",
+    "prereq": "None",
+    "level": "400"
+  },
+  {
+    "courseid": "18",
+    "code": "CSC412",
+    "unit": "4",
+    "title": "Computer Achitecture & Org.",
+    "mode": "R",
+    "prereq": "None",
+    "level": "400"
+  },
+  {
+    "courseid": "21",
+    "code": "CSC421",
+    "unit": "3",
+    "title": "Computer Operating Systems II",
+    "mode": "R",
+    "prereq": "None",
+    "level": "400"
+  },
+  {
+    "courseid": "22",
+    "code": "CSC422",
+    "unit": "3",
+    "title": "Info Theory & Comp Comm. Systs",
+    "mode": "R",
+    "prereq": "None",
+    "level": "400"
+  },
+  {
+    "courseid": "23",
+    "code": "CSC423",
+    "unit": "3",
+    "title": "Distributed Systems",
+    "mode": "E",
+    "prereq": "None",
+    "level": "400"
+  },
+  {
+    "courseid": "24",
+    "code": "CSC431",
+    "unit": "3",
+    "title": "Compiling Techniques",
+    "mode": "R",
+    "prereq": "None",
+    "level": "400"
+  },
+  {
+    "courseid": "25",
+    "code": "CSC432",
+    "unit": "3",
+    "title": "Compiler Construction",
+    "mode": "E",
+    "prereq": "None",
+    "level": "400"
+  },
+  {
+    "courseid": "26",
+    "code": "CSC433",
+    "unit": "1",
+    "title": "Software Engineering II",
+    "mode": "R",
+    "prereq": "None",
+    "level": "400"
+  },
+  {
+    "courseid": "27",
+    "code": "CSC451",
+    "unit": "3",
+    "title": "Analysis of Algorithms",
+    "mode": "E",
+    "prereq": "None",
+    "level": "400"
+  },
+  {
+    "courseid": "28",
+    "code": "CSC452",
+    "unit": "3",
+    "title": "Theory of Computation",
+    "mode": "R",
+    "prereq": "None",
+    "level": "400"
+  },
+  {
+    "courseid": "29",
+    "code": "CSC472",
+    "unit": "3",
+    "title": "Database Systems",
+    "mode": "R",
+    "prereq": "None",
+    "level": "400"
+  },
+  {
+    "courseid": "30",
+    "code": "CSC473",
+    "unit": "3",
+    "title": "Artificial Intelligence",
+    "mode": "E",
+    "prereq": "None",
+    "level": "400"
+  },
+  {
+    "courseid": "31",
+    "code": "CSC474",
+    "unit": "3",
+    "title": "Expert Systems",
+    "mode": "E",
+    "prereq": "None",
+    "level": "400"
+  },
+  {
+    "courseid": "32",
+    "code": "CSC482",
+    "unit": "3",
+    "title": "Computer Simulations",
+    "mode": "E",
+    "prereq": "None",
+    "level": "400"
+  },
+  {
+    "courseid": "33",
+    "code": "CSC492",
+    "unit": "3",
+    "title": "Selected Topics in Comp. Sci.",
+    "mode": "E",
+    "prereq": "None",
+    "level": "400"
+  },
+  {
+    "courseid": "19",
+    "code": "CSC495",
+    "unit": "6",
+    "title": "Projects",
+    "mode": "C",
+    "prereq": "None",
+    "level": "400"
+  },
+  {
+    "courseid": "4",
+    "code": "GES101",
+    "unit": "3",
+    "title": "Use of English",
+    "mode": "C",
+    "prereq": "None",
+    "level": "100"
+  },
+  {
+    "courseid": "2",
+    "code": "GES102",
+    "unit": "3",
+    "title": "Culture and Civilization",
+    "mode": "C",
+    "prereq": "None",
+    "level": "100"
+  },
+  {
+    "courseid": "16",
+    "code": "GES103",
+    "unit": "3",
+    "title": "Philosophy",
+    "mode": "C",
+    "prereq": "None",
+    "level": "200"
+  },
+  {
+    "courseid": "48",
+    "code": "MAT111",
+    "unit": "4",
+    "title": "Algebra",
+    "mode": "R",
+    "prereq": "None",
+    "level": "100"
+  },
+  {
+    "courseid": "49",
+    "code": "MAT121",
+    "unit": "4",
+    "title": "Calculus and Trigonometry",
+    "mode": "R",
+    "prereq": "None",
+    "level": "100"
+  },
+  {
+    "courseid": "50",
+    "code": "MAT141",
+    "unit": "4",
+    "title": "Analytical Geometry and Mechanics",
+    "mode": "R",
+    "prereq": "None",
+    "level": "100"
+  },
+  {
+    "courseid": "3",
+    "code": "MAT213",
+    "unit": "4",
+    "title": "Abstract Algebra",
+    "mode": "R",
+    "prereq": "None",
+    "level": "200"
+  },
+  {
+    "courseid": "11",
+    "code": "MAT223",
+    "unit": "4",
+    "title": "Analysis",
+    "mode": "R",
+    "prereq": "None",
+    "level": "200"
+  },
+  {
+    "courseid": "54",
+    "code": "PHY112",
+    "unit": "3",
+    "title": "Electricity and Magnetism",
+    "mode": "R",
+    "prereq": "None",
+    "level": "100"
+  },
+  {
+    "courseid": "55",
+    "code": "PHY113",
+    "unit": "3",
+    "title": "Waves, Optics and Modern Physics",
+    "mode": "R",
+    "prereq": "None",
+    "level": "100"
+  },
+  {
+    "courseid": "56",
+    "code": "PHY114",
+    "unit": "3",
+    "title": "Mechanics and Properties of Matter",
+    "mode": "R",
+    "prereq": "None",
+    "level": "100"
+  },
+  {
+    "courseid": "57",
+    "code": "PHY115",
+    "unit": "3",
+    "title": "Heat and Thermodynamics",
+    "mode": "R",
+    "prereq": "None",
+    "level": "100"
+  },
+  {
+    "courseid": "58",
+    "code": "PHY118",
+    "unit": "3",
+    "title": "Experimental Physics I",
+    "mode": "R",
+    "prereq": "None",
+    "level": "100"
+  },
+  {
+    "courseid": "53",
+    "code": "STA101",
+    "unit": "4",
+    "title": "Stat for agric and bio sciences",
+    "mode": "E",
+    "prereq": "None",
+    "level": "100"
+  },
+  {
+    "courseid": "51",
+    "code": "STA112",
+    "unit": "4",
+    "title": "Probability I",
+    "mode": "R",
+    "prereq": "None",
+    "level": "100"
+  },
+  {
+    "courseid": "52",
+    "code": "STA121",
+    "unit": "4",
+    "title": "Statistical Inference I",
+    "mode": "R",
+    "prereq": "None",
+    "level": "100"
+  },
+  {
+    "courseid": "5",
+    "code": "STA211",
+    "unit": "4",
+    "title": "ProbabilityII",
+    "mode": "R",
+    "prereq": "None",
+    "level": "200"
+  },
+  {
+    "courseid": "12",
+    "code": "STA221",
+    "unit": "4",
+    "title": "Statistical InferenceII",
+    "mode": "R",
+    "prereq": "None",
+    "level": "200"
+  }
+]

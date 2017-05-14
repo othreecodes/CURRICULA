@@ -37,7 +37,3 @@ Submit a [PR](https://github.com/othreecodes/CURRICULA/pull/new/master) for any 
 
 # LICENSE
 [MIT](LICENSE)
-  
-  
-  
-  
